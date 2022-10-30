@@ -1,4 +1,4 @@
-#Code written for IBM Call for code 2K22 (SwachBin)
+# SwachBin - Servo Motor Module
 import RPi.GPIO as GPIO
 from time import sleep
 GPIO.setmode(GPIO.BCM)
