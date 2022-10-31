@@ -1,6 +1,6 @@
 # SwachBin-ServoMotorModule
 
-
+![Logo](./images/Servo_Raspberry_PI.jpg)
 
 Instructions:
 1.	Ensure the VNC option in your raspberrypi is turned ON.
