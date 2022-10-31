@@ -1,5 +1,7 @@
 # SwachBin-ServoMotorModule
 
+![Logo](./images/Servo_Raspberry_PI.jpg)
+
 Instructions:
 1.	Ensure the VNC option in your raspberrypi is turned ON.
 2.	Set up a new connection to the VNC server with the IP address of your network to add your Raspberrypi.
